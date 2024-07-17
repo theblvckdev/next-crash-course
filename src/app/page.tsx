@@ -1,4 +1,3 @@
-import UserBlock from "@/components/user_block";
 import axios from "axios";
 import UserData from "@/components/user_data";
 

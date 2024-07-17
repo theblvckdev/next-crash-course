@@ -2,7 +2,6 @@
 
 import React, { useState } from "react";
 import UserBlock from "./user_block";
-import { NextPage } from "next";
 import { UserDataType } from "@/app/page";
 
 const UserData = ({ dataProps }: { dataProps: UserDataType[] }) => {
